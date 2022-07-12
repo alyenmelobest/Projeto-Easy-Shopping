@@ -10,8 +10,6 @@
 <br>
 
   <section align="center">
-    <img src="https://github.com/alyenmelobest/Projeto-Easy-Shopping/blob/master/img/Projeto%20em%20desktop%20(2).png?raw=true" alt="easy-shopping-img" />
-
- <br>
-    <img src="https://github.com/alyenmelobest/Projeto-Easy-Shopping/blob/master/img/Projeto%20em%20mobile.png?raw=true" alt="easy-shopping-img-mobile" />
+    <img src="https://github.com/alyenmelobest/Projeto-Easy-Shopping/blob/master/img/Design%20sem%20nome.png?raw=true" alt="easy-shopping-img" align="center"/>
+    <img src="https://github.com/alyenmelobest/Projeto-Easy-Shopping/blob/master/img/Design%20sem%20nome%20(1).png?raw=true" alt="easy-shopping-img-mobile" align="center"/>
   </section>
